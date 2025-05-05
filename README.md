@@ -13,10 +13,14 @@
 
 ## Descripción
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Proyecto de NestJS para manejar productos
 
 ## Configuración del Proyecto
 
+## 1-Clonar: 
+```bash
+$git clone https://github.com/Jeralber/Type-ORM.git
+```
 ```bash
 $ npm install
 ```
